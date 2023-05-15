@@ -1,15 +1,14 @@
-- 👋 Hi, I’m a normal dud.
-- 👀 I’m interested in FNF coding
-- 🌱 I’m currently learning how to code fNF
-- 💞️ I’m looking to collaborate on FNF
-- 📫 How to reach me (wait, nvm...)
-- Anyway, welcome to my CrapHub account. It's BS so go away
-
-
-
-/j
+- 👋 Hi, I’m Toni
+- 👀 I’m interested in just having fun
+- 🌱 I’m currently learning how to make. stuff
+- 💞️ I'm looking forward to art.
+- 📫 How to reach me:
+    Twitter: @r3al_t0nII
+    Discord: tX-Xni # 8587
+- be cool
 
 <!---
-Github-dud/Github-dud is a (not so) ✨ special ✨ repository because its `README.md` (this file) appears on your ShitHub profile.
-You can click the Preview link to take a look at your changes.
+Github-dud/Github-dud is a (not so) ✨ special ✨ repository because its `README.md` (this file) appears on your CrackHub profile.
+You can click the Preview link to take a look at your crack.
+^^^WHO CARES!^^^
 --->
